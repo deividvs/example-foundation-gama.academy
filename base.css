@@ -1,0 +1,13 @@
+.main-wrapper {
+  max-width: 980px;
+  margin: 0 auto;
+  background: #f1f1f1;
+}
+
+.header {
+  background: #3333aa;
+}
+
+.menu {
+  background: #999;
+}
